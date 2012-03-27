@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.0">
+<eagle version="6.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -2053,7 +2053,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="FRAME1" library="frames" deviceset="A4L-LOC" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="C1" library="myLibrary" deviceset="C" device="" value="10nf"/>
-<part name="R2" library="myLibrary" deviceset="R" device="" value="976K"/>
+<part name="R2" library="myLibrary" deviceset="R" device="" value="820K"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
@@ -2069,7 +2069,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="C9" library="myLibrary" deviceset="C" device="" value="100nF"/>
 <part name="VDD3" library="supply1" deviceset="VDD" device=""/>
 <part name="IC2" library="myLibrary" deviceset="MCP1640" device=""/>
-<part name="R3" library="myLibrary" deviceset="R" device="" value="563K"/>
+<part name="R3" library="myLibrary" deviceset="R" device="" value="470K"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="L1" library="myLibrary" deviceset="L" device="0805" value="10nH"/>
 <part name="L2" library="myLibrary" deviceset="LQH3C" device="" value="4.7uH"/>
@@ -2084,18 +2084,18 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="C8" library="myLibrary" deviceset="C" device="" value="100nF"/>
 <part name="RESET" library="myLibrary" deviceset="BUTTON" device="" value=""/>
 <part name="LED1" library="myLibrary" deviceset="LED" device="0805" value=""/>
-<part name="R1" library="myLibrary" deviceset="R" device="" value="270"/>
+<part name="R1" library="myLibrary" deviceset="R" device="" value="120"/>
 <part name="C10" library="myLibrary" deviceset="C" device="" value="100nF"/>
-<part name="R5" library="myLibrary" deviceset="R" device="" value="270"/>
-<part name="R6" library="myLibrary" deviceset="R" device="" value="270"/>
+<part name="R5" library="myLibrary" deviceset="R" device="" value="330"/>
+<part name="R6" library="myLibrary" deviceset="R" device="" value="330"/>
 <part name="VIN" library="supply2" deviceset="V+" device="" value="VIN"/>
 <part name="LED2" library="myLibrary" deviceset="LED" device="0805" value=""/>
-<part name="R7" library="myLibrary" deviceset="R" device="" value="270"/>
+<part name="R7" library="myLibrary" deviceset="R" device="" value="120"/>
 <part name="VDD2" library="supply1" deviceset="VDD" device=""/>
 <part name="BOTTOM" library="myLibrary" deviceset="1X19" device=""/>
 <part name="TOP" library="myLibrary" deviceset="1X19" device=""/>
 <part name="LED3" library="myLibrary" deviceset="LED" device="0805" value=""/>
-<part name="R8" library="myLibrary" deviceset="R" device="" value="270"/>
+<part name="R8" library="myLibrary" deviceset="R" device="" value="120"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="J2" library="myLibrary" deviceset="JUMPER" device=""/>
 <part name="VIN1" library="supply2" deviceset="V+" device="" value="VIN"/>

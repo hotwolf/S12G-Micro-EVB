@@ -8,43 +8,43 @@
 </settings>
 <grid distance="0.1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.05" altunitdist="mm" altunit="mm"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="yes"/>
 <layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
-<layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
-<layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
-<layer number="33" name="tFinish" color="6" fill="3" visible="yes" active="yes"/>
-<layer number="34" name="bFinish" color="6" fill="6" visible="yes" active="yes"/>
-<layer number="35" name="tGlue" color="7" fill="4" visible="yes" active="yes"/>
-<layer number="36" name="bGlue" color="7" fill="5" visible="yes" active="yes"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
-<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
-<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
@@ -58,50 +58,50 @@
 <layer number="97" name="Info" color="7" fill="1" visible="no" active="no"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
 <layer number="100" name="Muster" color="7" fill="1" visible="no" active="no"/>
-<layer number="101" name="Patch_Top" color="12" fill="4" visible="yes" active="yes"/>
-<layer number="102" name="Vscore" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="103" name="fp3" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="104" name="Name" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="105" name="Beschreib" color="9" fill="1" visible="yes" active="yes"/>
-<layer number="106" name="BGA-Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="107" name="BD-Top" color="5" fill="1" visible="yes" active="yes"/>
-<layer number="108" name="fp8" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="109" name="fp9" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="110" name="fp0" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="111" name="LPC17xx" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="112" name="tSilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="116" name="Patch_BOT" color="9" fill="4" visible="yes" active="yes"/>
-<layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="122" name="_bsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="123" name="tTestmark" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="124" name="bTestmark" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="125" name="_tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="126" name="_bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="127" name="_tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="128" name="_bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="131" name="tAdjust" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="132" name="bAdjust" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="144" name="Drill_legend" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="151" name="HeatSink" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="152" name="_bDocu" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="199" name="Contour" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="200" name="200bmp" color="1" fill="10" visible="yes" active="yes"/>
-<layer number="201" name="201bmp" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="101" name="Patch_Top" color="12" fill="4" visible="no" active="yes"/>
+<layer number="102" name="Vscore" color="7" fill="1" visible="no" active="yes"/>
+<layer number="103" name="fp3" color="7" fill="1" visible="no" active="yes"/>
+<layer number="104" name="Name" color="7" fill="1" visible="no" active="yes"/>
+<layer number="105" name="Beschreib" color="9" fill="1" visible="no" active="yes"/>
+<layer number="106" name="BGA-Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="107" name="BD-Top" color="5" fill="1" visible="no" active="yes"/>
+<layer number="108" name="fp8" color="7" fill="1" visible="no" active="yes"/>
+<layer number="109" name="fp9" color="7" fill="1" visible="no" active="yes"/>
+<layer number="110" name="fp0" color="7" fill="1" visible="no" active="yes"/>
+<layer number="111" name="LPC17xx" color="7" fill="1" visible="no" active="yes"/>
+<layer number="112" name="tSilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="116" name="Patch_BOT" color="9" fill="4" visible="no" active="yes"/>
+<layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="124" name="bTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="125" name="_tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="126" name="_bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="127" name="_tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="128" name="_bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="131" name="tAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="132" name="bAdjust" color="7" fill="1" visible="no" active="yes"/>
+<layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
+<layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
+<layer number="152" name="_bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="199" name="Contour" color="7" fill="1" visible="no" active="yes"/>
+<layer number="200" name="200bmp" color="1" fill="10" visible="no" active="yes"/>
+<layer number="201" name="201bmp" color="2" fill="10" visible="no" active="yes"/>
 <layer number="202" name="202bmp" color="3" fill="1" visible="no" active="no"/>
-<layer number="203" name="203bmp" color="4" fill="10" visible="yes" active="yes"/>
-<layer number="204" name="204bmp" color="5" fill="10" visible="yes" active="yes"/>
-<layer number="205" name="205bmp" color="6" fill="10" visible="yes" active="yes"/>
-<layer number="206" name="206bmp" color="7" fill="10" visible="yes" active="yes"/>
-<layer number="207" name="207bmp" color="8" fill="10" visible="yes" active="yes"/>
-<layer number="208" name="208bmp" color="9" fill="10" visible="yes" active="yes"/>
-<layer number="209" name="209bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="210" name="210bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="211" name="211bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="212" name="212bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="213" name="213bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="214" name="214bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="215" name="215bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="216" name="216bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="203" name="203bmp" color="4" fill="10" visible="no" active="yes"/>
+<layer number="204" name="204bmp" color="5" fill="10" visible="no" active="yes"/>
+<layer number="205" name="205bmp" color="6" fill="10" visible="no" active="yes"/>
+<layer number="206" name="206bmp" color="7" fill="10" visible="no" active="yes"/>
+<layer number="207" name="207bmp" color="8" fill="10" visible="no" active="yes"/>
+<layer number="208" name="208bmp" color="9" fill="10" visible="no" active="yes"/>
+<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="211" name="211bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="212" name="212bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="213" name="213bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="214" name="214bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="215" name="215bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="216" name="216bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
 <layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
 <layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
@@ -110,11 +110,11 @@
 <layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
 <layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
 <layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
-<layer number="248" name="Housing" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="249" name="Edge" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="248" name="Housing" color="7" fill="1" visible="no" active="yes"/>
+<layer number="249" name="Edge" color="7" fill="1" visible="no" active="yes"/>
 <layer number="250" name="Descript" color="7" fill="1" visible="no" active="no"/>
 <layer number="251" name="SMDround" color="7" fill="1" visible="no" active="no"/>
-<layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
 </layers>
 <board>
 <plain>
@@ -5556,6 +5556,14 @@
 <text x="44.01" y="11.46" size="0.8128" layer="122" font="vector" ratio="15" rot="MR0" align="bottom-center">S12G Micro EVB</text>
 <text x="41.725" y="13.685" size="0.8128" layer="122" font="vector" ratio="15" rot="MR0" align="bottom-center">Rev. A</text>
 <text x="44.025" y="10.215" size="0.8128" layer="122" font="vector" ratio="15" rot="MR0" align="bottom-center">Dirk Heisswolf</text>
+<wire x1="19" y1="12.1" x2="19.3" y2="12.1" width="0.1" layer="25"/>
+<wire x1="19.3" y1="12.1" x2="19.6" y2="12.1" width="0.1" layer="25"/>
+<wire x1="19.6" y1="12.1" x2="19.3" y2="12.8" width="0.1" layer="25"/>
+<wire x1="19.3" y1="12.8" x2="19" y2="12.1" width="0.1" layer="25"/>
+<wire x1="19" y1="12.8" x2="19.3" y2="12.8" width="0.1" layer="25"/>
+<wire x1="19.3" y1="12.8" x2="19.6" y2="12.8" width="0.1" layer="25"/>
+<wire x1="19.3" y1="12.8" x2="19.3" y2="13.3" width="0.1" layer="25"/>
+<wire x1="19.3" y1="12.1" x2="19.3" y2="11.6" width="0.1" layer="25"/>
 </plain>
 <libraries>
 <library name="myLibrary">
@@ -6337,99 +6345,99 @@ design rules under a new name.</description>
 <attribute name="MPN" value="FT232RL" x="27.99" y="-17.98" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="MF" value="" x="27.99" y="-17.98" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="OC_FARNELL" value="1146032" x="27.99" y="-17.98" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="NAME" x="5.2701" y="13.124" size="1" layer="26" rot="MR180"/>
+<attribute name="NAME" x="9.2701" y="7.824" size="0.5" layer="26" rot="MR180"/>
 </element>
 <element name="C1" library="myLibrary" package="0805" value="10nf" x="10.9" y="11.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="10.4" y="11.3" size="0.5" layer="25"/>
+<attribute name="NAME" x="10.5" y="9.2" size="0.5" layer="25"/>
 </element>
-<element name="R2" library="myLibrary" package="0805" value="976K" x="40.7" y="6.7" smashed="yes">
-<attribute name="NAME" x="40.9" y="6.2" size="0.5" layer="25" rot="R90"/>
+<element name="R2" library="myLibrary" package="0805" value="820K" x="40.7" y="6.7" smashed="yes">
+<attribute name="NAME" x="41.3" y="5.8" size="0.5" layer="25" rot="R180"/>
 </element>
 <element name="C2" library="myLibrary" package="0805" value="100nF" x="12.7" y="11.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="12.2" y="11.3" size="0.5" layer="25"/>
+<attribute name="NAME" x="12.2" y="9.2" size="0.5" layer="25"/>
 </element>
 <element name="J1" library="myLibrary" package="JUMPER_2WAY" value="" x="4.9" y="18.5" smashed="yes" rot="MR180">
-<attribute name="NAME" x="1.5" y="18.06" size="0.8" layer="26" ratio="10" rot="MR90"/>
+<attribute name="NAME" x="2.34" y="18.2" size="0.5" layer="26" ratio="10" rot="MR0"/>
 <attribute name="VALUE" x="4.7999" y="18.5" size="0.02" layer="28" rot="MR180"/>
 </element>
 <element name="C3" library="myLibrary" package="0805" value="4.7uF" x="14.4" y="11.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="13.9" y="11.3" size="0.5" layer="25"/>
+<attribute name="NAME" x="13.9" y="9.2" size="0.5" layer="25"/>
 </element>
 <element name="C4" library="myLibrary" package="0805" value="100nF" x="8.6" y="18.6" smashed="yes" rot="MR0">
-<attribute name="NAME" x="8.9" y="19" size="0.5" layer="26" rot="MR270"/>
+<attribute name="NAME" x="10.4" y="18.9" size="0.5" layer="26" rot="MR180"/>
 </element>
 <element name="BDM" library="myLibrary" package="BDM" value="" x="46.59" y="16.31" smashed="yes" rot="R180">
 <attribute name="VALUE" x="49.165" y="21.525" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="C5" library="myLibrary" package="0805" value="100nF" x="3" y="6.4" smashed="yes" rot="MR0">
-<attribute name="NAME" x="3.2" y="6.8" size="0.5" layer="26" rot="MR270"/>
+<attribute name="NAME" x="2.5" y="5.5" size="0.5" layer="26" rot="MR180"/>
 </element>
 <element name="C9" library="myLibrary" package="0805" value="100nF" x="18.1" y="8.8" smashed="yes">
-<attribute name="NAME" x="18.4" y="8.3" size="0.5" layer="25" rot="R90"/>
+<attribute name="NAME" x="18.6" y="7.9" size="0.5" layer="25" rot="R180"/>
 </element>
 <element name="IC2" library="myLibrary" package="SOT23-6" value="MCP1640" x="42.6" y="9.8" smashed="yes" rot="R180">
-<attribute name="NAME" x="41.78" y="9.35" size="0.8" layer="25"/>
+<attribute name="NAME" x="42.08" y="11.95" size="0.5" layer="25"/>
 </element>
-<element name="R3" library="myLibrary" package="0805" value="563K" x="44.3" y="6.7" smashed="yes">
-<attribute name="NAME" x="44.5" y="6.2" size="0.5" layer="25" rot="R90"/>
+<element name="R3" library="myLibrary" package="0805" value="470K" x="44.3" y="6.7" smashed="yes">
+<attribute name="NAME" x="44.8" y="5.8" size="0.5" layer="25" rot="R180"/>
 </element>
 <element name="L1" library="myLibrary" package="0805" value="10nH" x="11.8" y="14.3" smashed="yes" rot="R180">
-<attribute name="NAME" x="11.6" y="14.8" size="0.5" layer="25" rot="R270"/>
+<attribute name="NAME" x="11.4" y="15.2" size="0.5" layer="25"/>
 </element>
 <element name="L2" library="myLibrary" package="LQH3C@1" value="4.7uH" x="47.5" y="8.7" smashed="yes" rot="R90">
-<attribute name="NAME" x="48.297" y="9.157" size="0.9" layer="25" rot="R180"/>
+<attribute name="NAME" x="48.997" y="11.157" size="0.5" layer="25" rot="R180"/>
 </element>
 <element name="C7" library="myLibrary" package="0805" value="10uF" x="39.8" y="9.9" smashed="yes" rot="R90">
-<attribute name="NAME" x="40.3" y="10.1" size="0.5" layer="25" rot="R180"/>
+<attribute name="NAME" x="40.3" y="12.2" size="0.5" layer="25" rot="R180"/>
 </element>
 <element name="USB" library="myLibrary" package="USB_MINI_B" value="" x="4.6" y="12.5" smashed="yes" rot="R270">
 <attribute name="VALUE" x="-1.4" y="17.9" size="1.27" layer="27" rot="R270"/>
 </element>
 <element name="C6" library="myLibrary" package="0805" value="4.7uF" x="45.4" y="9.9" smashed="yes" rot="R90">
-<attribute name="NAME" x="44.9" y="9.6" size="0.5" layer="25"/>
+<attribute name="NAME" x="44.9" y="11.7" size="0.5" layer="25"/>
 </element>
 <element name="R4" library="myLibrary" package="0805" value="10k" x="35" y="12" smashed="yes" rot="MR180">
-<attribute name="NAME" x="34.8" y="11.5" size="0.5" layer="26" rot="MR90"/>
+<attribute name="NAME" x="36.8" y="12.3" size="0.5" layer="26" rot="MR180"/>
 </element>
 <element name="C8" library="myLibrary" package="0805" value="100nF" x="35" y="10.2" smashed="yes" rot="MR0">
-<attribute name="NAME" x="34.8" y="9.7" size="0.5" layer="26" rot="MR90"/>
+<attribute name="NAME" x="37.7" y="10" size="0.5" layer="26" rot="MR0"/>
 </element>
 <element name="RESET" library="myLibrary" package="BUTTON" value="" x="35" y="11" smashed="yes" rot="R90"/>
 <element name="LED1" library="myLibrary" package="0805" value="" x="4.2" y="6" smashed="yes">
-<attribute name="NAME" x="4.4" y="5.5" size="0.3" layer="25" rot="SR90"/>
+<attribute name="NAME" x="3.9" y="6.9" size="0.5" layer="25" rot="SR0"/>
 <attribute name="VALUE" x="2.4" y="3.8" size="1.27" layer="27"/>
 </element>
-<element name="R1" library="myLibrary" package="0805" value="270" x="6.6" y="6.4" smashed="yes" rot="MR180">
-<attribute name="NAME" x="6.4" y="5.9" size="0.5" layer="26" rot="MR90"/>
+<element name="R1" library="myLibrary" package="0805" value="120" x="6.6" y="6.4" smashed="yes" rot="MR180">
+<attribute name="NAME" x="7" y="5" size="0.5" layer="26" rot="MR0"/>
 </element>
 <element name="C10" library="myLibrary" package="0805" value="100nF" x="23.7" y="19" smashed="yes">
-<attribute name="NAME" x="23.9" y="18.4" size="0.5" layer="25" rot="R90"/>
+<attribute name="NAME" x="21.9" y="19.7" size="0.5" layer="25" rot="R180"/>
 </element>
-<element name="R5" library="myLibrary" package="0805" value="270" x="25.8" y="14.5" smashed="yes" rot="MR270">
-<attribute name="NAME" x="25.4" y="14.7" size="0.5" layer="26" rot="MR180"/>
+<element name="R5" library="myLibrary" package="0805" value="330" x="25.8" y="14.5" smashed="yes" rot="MR270">
+<attribute name="NAME" x="25.4" y="16.8" size="0.5" layer="26" rot="MR180"/>
 <attribute name="VALUE" x="28" y="16.3" size="1.27" layer="28" rot="MR270"/>
 </element>
-<element name="R6" library="myLibrary" package="0805" value="270" x="27.6" y="14.5" smashed="yes" rot="MR270">
-<attribute name="NAME" x="27.2" y="14.7" size="0.5" layer="26" rot="MR180"/>
+<element name="R6" library="myLibrary" package="0805" value="330" x="27.6" y="14.5" smashed="yes" rot="MR270">
+<attribute name="NAME" x="27.1" y="16.8" size="0.5" layer="26" rot="MR180"/>
 </element>
 <element name="LED2" library="myLibrary" package="0805" value="" x="18" y="11.6" smashed="yes" rot="R90">
-<attribute name="NAME" x="17.5" y="11.4" size="0.3" layer="25"/>
+<attribute name="NAME" x="17.2" y="13.4" size="0.5" layer="25"/>
 <attribute name="VALUE" x="20.2" y="9.8" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="R7" library="myLibrary" package="0805" value="270" x="18" y="11.6" smashed="yes" rot="MR90">
-<attribute name="NAME" x="18.4" y="11.3" size="0.5" layer="26" rot="MR0"/>
+<element name="R7" library="myLibrary" package="0805" value="120" x="18" y="11.6" smashed="yes" rot="MR90">
+<attribute name="NAME" x="18.3" y="13.4" size="0.5" layer="26" rot="MR0"/>
 </element>
 <element name="BOTTOM" library="myLibrary" package="1X19" value="1X19" x="2.14" y="3.61" smashed="yes"/>
 <element name="TOP" library="myLibrary" package="1X19" value="1X19" x="2.14" y="21.39" smashed="yes"/>
 <element name="LED3" library="myLibrary" package="0805" value="" x="16.2" y="11.6" smashed="yes" rot="R90">
-<attribute name="NAME" x="15.7" y="11.4" size="0.3" layer="25"/>
+<attribute name="NAME" x="15.3" y="13.4" size="0.5" layer="25"/>
 <attribute name="VALUE" x="18.4" y="9.8" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="R8" library="myLibrary" package="0805" value="270" x="16.2" y="11.6" smashed="yes" rot="MR90">
-<attribute name="NAME" x="16.6" y="11.3" size="0.5" layer="26" rot="MR0"/>
+<element name="R8" library="myLibrary" package="0805" value="120" x="16.2" y="11.6" smashed="yes" rot="MR90">
+<attribute name="NAME" x="16.6" y="13.4" size="0.5" layer="26" rot="MR0"/>
 </element>
 <element name="J2" library="myLibrary" package="JUMPER" value="JUMPER" x="43" y="14.6" smashed="yes" rot="R270">
-<attribute name="NAME" x="43.6" y="13" size="0.8" layer="25" ratio="10" rot="R180"/>
+<attribute name="NAME" x="43.4" y="16.9" size="0.5" layer="25" ratio="10" rot="R180"/>
 </element>
 <element name="VUSB" library="myLibrary" package="1X1" value="1X1" x="14.84" y="16.31" smashed="yes"/>
 <element name="GND" library="myLibrary" package="1X1" value="1X1" x="17.38" y="16.31" smashed="yes"/>
