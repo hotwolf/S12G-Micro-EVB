@@ -3,10 +3,10 @@ S12G Micro EVB
 A tiny evaluation board for Freescale's S12G microcontroller family.
 
 Files:
-"S12G Micro EVB RevA.sch"               - Schematic (Eagle 6.1.0)
+"S12G Micro EVB RevA.sch"               - Schematic (aEgle 6.1.0)
 "S12G Micro EVB RevA.brd"               - PCB layout (Eagle 6.1.0)
 "S12G Micro EVB RevA BOM.txt"           - Bill of Materials
 "S12G Micro EVB RevA Schematic.pdf"     - Schematic
 "S12G Micro EVB RevA Mounting Plan.pdf" - Assembly diagram
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/).
