@@ -9,9 +9,11 @@ ICs:
 
 Capacitors:
 
-2x	 10nF			0805			C1, C7
+1x	 10nF			0805			C1
 6x	100nF			0805			C2, C4, C5, C8, C9, C10 
 2x	4.7uF			0805			C3, C6
+1x	 10uF			0805			C7
+
 
 Inductors:
 
