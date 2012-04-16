@@ -52,4 +52,4 @@ Connectors:
 1x	USB-Mini-B		SMD			USB
 2x	1x19 straight		Print			TOP, BOTTOM
 1X	2X3  straight		Print			BDM
-2x	1x1  straight		PRINT			VUSB, GND
+2x	1x1  straight		Print			VUSB, GND
