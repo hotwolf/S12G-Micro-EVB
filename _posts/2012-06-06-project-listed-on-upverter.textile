@@ -1,0 +1,6 @@
+---
+layout: post
+title: Project Listed on Upverter.com
+---
+
+The *S12G Micro EVB* project is now listed on "upverter.com":http://upverter.com/hotwolf/e266ed199ea9e1f0/S12G-Micro-EVB .
