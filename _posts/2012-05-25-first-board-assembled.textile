@@ -3,7 +3,7 @@ layout: post
 title: First Board Assembled
 ---
 
-The first *S12G Micro EVB* has been assembled and built into the "AriCalculator":http://hotwolf.github.com/AriCalculator prototype:
+The first *S12G-Micro-EVB* has been assembled and built into the "AriCalculator":http://hotwolf.github.com/AriCalculator prototype:
 
 p=. !{{ site.url}}/images/S12G-Micro-EVB-RevA.png!
 
