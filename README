@@ -2,11 +2,23 @@ S12G Micro EVB
 ============== 
 A tiny evaluation board for Freescale's S12G microcontroller family.
 
-Files:
-"S12G Micro EVB RevA.sch"               - Schematic (aEgle 6.1.0)
-"S12G Micro EVB RevA.brd"               - PCB layout (Eagle 6.1.0)
-"S12G Micro EVB RevA BOM.txt"           - Bill of Materials
-"S12G Micro EVB RevA Schematic.pdf"     - Schematic
-"S12G Micro EVB RevA Mounting Plan.pdf" - Assembly diagram
+Directories:
+============
+|
++-RevA                                    ;Initial version of the S12G-Micro-EVB
+| +-"S12G-Micro-EVB RevA.sch"               ;Schematic (aEgle 6.1.0)
+| +-"S12G-Micro-EVB RevA.brd"               ;PCB layout (Eagle 6.1.0)
+| +-"S12G-Micro-EVB RevA Gerber.zip"        ;PCB layout (Gerber)
+| +-"S12G-Micro-EVB RevA BOM.txt"           ;Bill of Materials
+| +-"S12G-Micro-EVB RevA Schematic.pdf"     ;Schematic
+| +-"S12G-Micro-EVB RevA Mounting Plan.pdf" ;Assembly diagram
+|
++-RevB                                    ;Revised version of the S12G-Micro-EVB
+  +-"S12G-Micro-EVB RevB.sch"               ;Schematic (aEgle 6.2.0)
+  +-"S12G-Micro-EVB RevB.brd"               ;PCB layout (Eagle 6.2.0)
+| +-"S12G-Micro-EVB RevB Gerber.zip"        ;PCB layout (Gerber)
+  +-"S12G-Micro-EVB RevB BOM.txt"           ;Bill of Materials
+  +-"S12G-Micro-EVB RevB Schematic.pdf"     ;Schematic
+  +-"S12G-Micro-EVB RevB Mounting Plan.pdf" ;Assembly diagram
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/).

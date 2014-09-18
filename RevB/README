@@ -1,0 +1,13 @@
+S12G Micro EVB (RevB)
+===================== 
+Revised version of the S12G-Micro-EVB.
+
+Files:
+"S12G-Micro-EVB RevB.sch"               ;Schematic (aEgle 6.2.0)
+"S12G-Micro-EVB RevB.brd"               ;PCB layout (Eagle 6.2.0)
+"S12G-Micro-EVB RevB Gerber.zip"        ;PCB layout (Gerber)
+"S12G-Micro-EVB RevB BOM.txt"           ;Bill of Materials
+"S12G-Micro-EVB RevB Schematic.pdf"     ;Schematic
+"S12G-Micro-EVB RevB Mounting Plan.pdf" ;Assembly diagram
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License (http://creativecommons.org/licenses/by-sa/3.0/).
