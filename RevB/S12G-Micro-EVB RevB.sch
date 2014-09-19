@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
@@ -2101,10 +2101,10 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="VIN1" library="supply2" deviceset="V+" device="" value="VIN"/>
 <part name="VUSB" library="myLibrary" deviceset="1X1" device=""/>
 <part name="GND" library="myLibrary" deviceset="1X1" device=""/>
-<part name="R9" library="myLibrary" deviceset="R" device="" value="100"/>
-<part name="R10" library="myLibrary" deviceset="R" device="" value="100"/>
-<part name="R11" library="myLibrary" deviceset="R" device="" value="100"/>
-<part name="R12" library="myLibrary" deviceset="R" device="" value="100"/>
+<part name="R9" library="myLibrary" deviceset="R" device="" value="120"/>
+<part name="R10" library="myLibrary" deviceset="R" device="" value="120"/>
+<part name="R11" library="myLibrary" deviceset="R" device="" value="120"/>
+<part name="R12" library="myLibrary" deviceset="R" device="" value="120"/>
 <part name="R13" library="myLibrary" deviceset="R" device="" value="10K"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="R14" library="myLibrary" deviceset="R" device="" value="4.7K"/>
