@@ -1,0 +1,16 @@
+---
+layout: post
+title: RevB Boards Designed and Ordered
+---
+
+Recently a FT232RL broke on one of my S12G-Micro-EVBs. I don't know exactly what went wrong, but I assume it broke because it was powered through the RXD pin for a longer time period while the USB supply was disconnected. This whole mishap revealed some shortcomings in my board design, which are now addressed in a new revision of the EVB:
+
+* Inserted resistors (R9,R10,R11,R12) in between the S12G and the FT232RL to reduce the current injection of either side of the interface.
+* Added voltage divider (R13,R14) to drive the FT232RL's reset input low, in case the USB supply is disconnected.
+* Added solder jumper (J3) to feed the divided USB supply to PAD7
+* Enhanced FT232RL's supply options (J1,J4)
+* Moved all ICs to the same side of the board, so they can be accessed even if the S12G-Micro-EVB is mounted onto another application board.
+* The USB connector is now located on the opposite side, which better fits better into the "AriCalculator":http://hotwolf.github.com/AriCalculator.
+* Placed LED's series resistors (R1,R7,R8) on the opposite side of the PCB. Now LEDs can be mounted on either side of the board by swapping them with their resistors.
+
+RevB boards are expected to arrive in October.
