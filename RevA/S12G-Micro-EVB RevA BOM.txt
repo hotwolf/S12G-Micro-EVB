@@ -3,7 +3,7 @@ Bill of Materials for the S12G-Micro-EVB RevA:
 
 ICs:
 
-1x	MC9S12G...LF		LQFP112			MCU
+1x	MC9S12G...LF		48LQFP			MCU
 1x	FT232RL			SSOP-28			IC1
 1x	MCP1640(C)		SOT23-6			IC2		
 
