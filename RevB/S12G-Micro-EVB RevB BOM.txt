@@ -3,9 +3,9 @@ Bill of Materials for the S12G-Micro-EVB RevB:
 
 ICs:
 
-1x	MC9S12G...LF		48LQFP			MCU
-1x	FT232RL			SSOP-28			IC1
-1x	MCP1640(C)		SOT23-6			IC2		
+1x	MC9S12G...LF 48LQFP			MCU
+1x	FT232RL		   SSOP-28		IC1
+1x	MCP1640(C)	 SOT23-6		IC2		
 
 Capacitors:
 
@@ -24,8 +24,9 @@ Resistors:
 5V configuration:
 
 7x	 270			0805			R1, R7, R8, R9, R10, R11, R12
-2x	 470			0805			R5, R6, R14
-2x  	 10K			0805			R4, 13
+2x	 470			0805			R5, R6
+1x  4.7K      0805      R14
+2x   10K			0805			R4, 13
 1x	220K			0805			R3
 1x	680K			0805			R2
 
@@ -33,16 +34,16 @@ Resistors:
 
 7x	 120			0805			R1, R7, R8, R9, R10, R11, R12
 2x	 330			0805			R5, R6
-1x      4.7K                    0805                    R14
+1x  4.7K      0805      R14
 2x	 10K			0805			R4, R13
 1x	470K			0805			R3
 1x	820K			0805			R2
 
 LEDs:
 
-1x	red			0805			LED_3
+1x	red			  0805			LED_3
 1x	green			0805			LED_2
-1x	yellow			0805			LED_1
+1x	yellow	  0805			LED_1
 
 Switch:
 
@@ -50,7 +51,7 @@ Switch:
 
 Connectors:
 
-1x	USB-Mini-B		SMD			USB
+1x	USB-Mini-B		  SMD			  USB
 2x	1x19 straight		Print			TOP, BOTTOM
 1X	2X3  straight		Print			BDM
 2x	1x1  straight		Print			VUSB, GND
